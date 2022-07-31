@@ -1,0 +1,39 @@
+.mb-3{
+    position: relative;
+    margin: 32px 0;
+}
+.button{
+    background-color: black;
+}
+.card .card-header{
+    margin: auto;
+    background-color: white;
+    color: rgb(230, 27, 27);
+    font-family: 'League Gothic';
+    font-weight: bold;
+}
+.button{
+    background-color: rgb(230, 27, 27);
+    font-size: 16px;
+    border: none;
+    font-weight: bold;
+    width: 205px;
+    text-decoration: none;
+    display: inline-block;
+    font-family: 'League Gothic';
+    color: white;
+    border-radius: 35px;
+
+}
+
+.mb-3 input {
+    border: none;
+    border-bottom: 2px solid red;
+  }
+.mb-3 .forgot{
+    color: darkgray;
+    padding-left: 227px;
+}
+.relative .hidden .login{
+    color: wheat;
+}
